@@ -1,0 +1,112 @@
+ANDROID OPERATING SYSTEM PRESENTATION SCRIPT
+-------------------------------------------
+
+Slide 1: Title
+--------------
+
+Respected faculty and my fellow classmates.
+I am Md. Afif Zaman, and today I will be presenting on “Android Operating System: History, Features, Architecture, and Impact.”
+
+This presentation is part of the course Operating System (ICT 2201) under the guidance of Dr. Nazrul Islam.
+
+My objective today is to not only explain what Android is, but also to highlight why it has become the dominant mobile operating system globally.
+
+
+Slide 2: What is Android?
+-------------------------
+
+Android is an open-source mobile operating system developed by Google, and it is built on top of the Linux kernel, which ensures stability, security, and efficient hardware management.
+
+What makes Android particularly significant is its flexibility.
+Because it is open-source, device manufacturers can customize it according to their hardware and market needs.
+
+As a result, Android is not limited to smartphones—it is widely used across smart TVs, wearable devices, and other embedded systems, making it a highly scalable operating system.
+
+
+Slide 3: History
+----------------
+
+Android’s journey began in 2003, when Android Inc. was founded with the goal of developing smarter mobile software.
+
+In 2005, Google acquired Android, which accelerated its development and global reach.
+
+The first commercial Android device was launched in 2008, marking the beginning of a new era in mobile computing.
+
+Since then, Android has experienced rapid expansion worldwide, largely due to its open ecosystem and adaptability across different device manufacturers and price ranges.
+
+
+Slide 4: Key Features
+---------------------
+
+Android offers several core features that contribute to its success.
+
+First, its open-source and customizable nature allows companies to innovate and differentiate their devices.
+
+Second, Android supports multitasking, enabling multiple applications to run concurrently, which enhances user productivity.
+
+Third, it has a large application ecosystem, giving users access to millions of apps for different purposes.
+
+Finally, Android provides deep integration with Google services, creating a connected and seamless user experience across devices.
+
+These features collectively make Android both user-friendly and developer-friendly.
+
+
+Slide 5: Architecture
+---------------------
+
+Android is designed using a layered architecture, which improves modularity and system efficiency.
+
+At the top are Applications, which interact directly with users.
+
+Below that, the Application Framework provides essential system services such as activity management and resource handling.
+
+The Android Runtime, or ART, is responsible for executing applications efficiently, optimizing performance and memory usage.
+
+At the foundation is the Linux kernel, which manages core system functions like process management, memory allocation, and hardware communication.
+
+This layered structure ensures that Android remains scalable, stable, and efficient across different devices.
+
+
+Slide 6: App Components
+-----------------------
+
+Android applications are built using four fundamental components.
+
+Activities represent the user interface and handle user interaction.
+
+Services operate in the background, allowing tasks to continue even when the user is not actively interacting with the app.
+
+Broadcast Receivers respond to system-wide events, enabling apps to react dynamically.
+
+And Content Providers manage and share data securely between applications.
+
+Together, these components enable Android apps to be modular, responsive, and efficient.
+
+
+Slide 7: Development
+--------------------
+
+Android application development is primarily done using Android Studio, which provides a comprehensive environment for coding, testing, and debugging.
+
+Developers typically use Java and Kotlin, with Kotlin being increasingly preferred due to its modern features and improved safety.
+
+Once applications are developed, they are distributed through the Google Play Store, allowing developers to reach a global audience.
+
+This development ecosystem plays a crucial role in Android’s continuous growth and innovation.
+
+
+Slide 8: Conclusion
+-------------------
+
+In conclusion, Android has established itself as the leading mobile operating system due to its flexibility, scalability, and strong developer ecosystem.
+
+Its open architecture allows continuous innovation, while its widespread adoption demonstrates its reliability and adaptability.
+
+At the same time, Android continues to evolve to meet modern technological demands, ensuring its relevance in the future of mobile computing.
+
+
+Slide 9: Thank You
+------------------
+
+Thank you for your attention.
+I hope this presentation has provided a clear and structured understanding of the Android Operating System.
