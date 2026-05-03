@@ -1,4 +1,4 @@
-# Operating System Presentation
+# Operating System Presentation on Android
 
 This repository contains all materials for my Operating Systems course presentation.
 
